@@ -17,7 +17,7 @@
 <br>
 
 ## Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumargupta7/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](ash300mr@gmail.com) [![twitter](https://img.shields.io/badge/Follow_me-black?style=for-the-badge&logo=x&logoColor=%23fff&link=https%3A%2F%2Ftwitter.com%2FAshishMayaGupta)](https://twitter.com/AshishMayaGupta) [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&labelColor=%23000&color=%23E4405F&link=https%3A%2F%2Fwww.instagram.com%2Fiamashishgupta7%2F)](https://www.instagram.com/iamashishgupta7/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumargupta7/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](durgamerotha43@gmail.com)
 
 <!-- <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a> -->
 
@@ -28,10 +28,10 @@
 
 <br>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=durgaprasadmerotha&&theme=xcode)](https://github.com/durgaprasadmerotha)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgaprasadmerotha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="durgaprasadmerotha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgaprasadmerotha&show_icons=true&locale=en&theme=tokyonight" alt="durgaprasadmerotha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasadmerotha&&theme=tokyonight" alt="durgaprasadmerotha" /></p>
